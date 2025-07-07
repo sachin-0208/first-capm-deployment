@@ -11,4 +11,3 @@
 - Fiori preview in browser
 - OData v4 service exposed
 
-## 📂 Project Structure
